@@ -1,0 +1,30 @@
+/*headers*/
+h1, h2, h3, h4, h5{
+  text-align:center;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+hr{
+  border-width:1px;
+  border-color:#714E5A;
+}
+body{
+  color:#5A714E;
+  background-color:#4E5A71;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+  text-align:center;
+  image-orientation: center;
+}
+li{
+  list-style-type: none;
+}
+header{
+  margin: 10;
+  background-color:#714E5A;
+  padding: 10px 0 10px 10px;
+}
+footer{
+  margin: 0;
+  background-color:#714E5A;
+  padding: 10px 0 15px 15px;
+}
