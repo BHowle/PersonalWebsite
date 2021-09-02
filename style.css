@@ -10,11 +10,11 @@ h2, h3, h4, h5{
 }
 hr{
   border-width:2px;
-  border-color:#5A714E;
+  border-color:#2d3639;
 }
 body{
   color:black;
-  background-color:#4E5A71;
+  background-color:#b4d7e3;
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 20px;
   text-align:center;
@@ -26,15 +26,15 @@ li{
 }
 header{
   margin: 10;
-  background-color:#714E5A;
+  background-color:#71868e;
   padding: 10px 0 10px 10px;
 }
 footer{
   margin: 0;
-  background-color:#714E5A;
+  background-color:#71868e;
   padding: 10px 0 15px 15px;
 }
-a:link{color:grey;}
+a:link{color:black;}
 a:visited{color:#714E5A;}
-a:hover{color:black;}
+a:hover{color:grey;}
 a:active{color:#5A714E;}
